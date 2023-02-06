@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  display: flex;
+  margin-top: 40px;
+}
+
+.header__nav-list {
+  display: flex;
+  list-style-type: none;
+}
+
+.top__content {
+  margin: 84px 0 96px;
+}
+
+.top__main {
+  margin-bottom: 259px;
+}
+
+.top__title {
+  margin-bottom: 17px;
+}
+
+.top__buttons {
+  margin-top: 37px;
+}
+
+.top__logos {
+  display: flex;
+  list-style-type: none;
+}
