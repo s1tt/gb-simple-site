@@ -1,0 +1,7 @@
+.header__nav-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 33px;
+  margin: 0;
+  align-items: center;
+}

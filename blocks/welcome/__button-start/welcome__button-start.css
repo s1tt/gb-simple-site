@@ -1,0 +1,11 @@
+.welcome__button-start {
+  background-color: #f25822;
+  padding: 15px 36px;
+  border-radius: 50px;
+  border: none;
+  font-family: 'Gilroy-Bold';
+  font-size: 15px;
+  line-height: 18px;
+  color: #ffffff;
+  cursor: pointer;
+}

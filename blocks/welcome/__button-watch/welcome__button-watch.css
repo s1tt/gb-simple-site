@@ -1,0 +1,13 @@
+.welcome__button-watch {
+  padding: 0;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  border: none;
+  background-color: transparent;
+  font-family: 'Gilroy-Bold';
+  font-size: 15px;
+  line-height: 18px;
+  color: #aaaaaa;
+  cursor: pointer;
+}
