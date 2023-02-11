@@ -26,3 +26,23 @@
 @import url('../blocks/welcome/__logo-list/welcome__logo-list.css');
 @import url('../blocks/welcome/__title/welcome__title.css');
 @import url('../blocks/welcome/__subtitle/welcome__subtitle.css');
+
+@import url('../blocks/exhortation/exhortation.css');
+@import url('../blocks/exhortation/__cards/exhortation__cards.css');
+@import url('../blocks/exhortation/__card/exhortation__card.css');
+@import url('../blocks/exhortation/__card/_shadow/exhortation__card_shadow.css');
+@import url('../blocks/exhortation/__card-img/exhortation__card-img.css');
+@import url('../blocks/exhortation/__card-link/exhortation__card-link.css');
+@import url('../blocks/exhortation/__card-subtitle/exhortation__card-subtitle.css');
+@import url('../blocks/exhortation/__card-title/exhortation__card-title.css');
+
+@import url('../blocks/why/why.css');
+@import url('../blocks/why/__title/why__title.css');
+@import url('../blocks/why/__subtitle/why__subtitle.css');
+@import url('../blocks/why/__cards/why__cards.css');
+@import url('../blocks/why/__card/why__card.css');
+@import url('../blocks/why/__card/_shadow/why__card_shadow.css');
+@import url('../blocks/why/__card-btn/why__card-btn.css');
+@import url('../blocks/why/__card-img/why__card-img.css');
+@import url('../blocks/why/__card-subtitle/why__card-subtitle.css');
+@import url('../blocks/why/__card-title/why__card-title.css');

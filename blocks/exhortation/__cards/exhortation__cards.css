@@ -1,0 +1,6 @@
+.exhortation__cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 370px);
+  gap: 30px;
+  justify-content: center;
+}

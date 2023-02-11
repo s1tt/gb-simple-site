@@ -21,3 +21,11 @@
   font-display: swap;
   src: url('./Gilroy-Semibold.woff2') format('woff2'), url('./Gilroy-Semibold.woff') format('woff');
 }
+
+@font-face {
+  font-family: 'Gilroy-Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./Gilroy-Regular.woff2') format('woff2'), url('./Gilroy-Regular.woff') format('woff');
+}
