@@ -1,0 +1,10 @@
+.why__card-subtitle {
+  margin: 0;
+  font-family: 'Gilroy-Regular';
+  font-size: 15px;
+  line-height: 150%;
+  text-align: center;
+  color: #aaaaaa;
+  margin-bottom: 34px;
+  max-width: 300px;
+}

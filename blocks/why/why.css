@@ -1,0 +1,8 @@
+.why {
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 92px;
+  padding-bottom: 100px;
+}
